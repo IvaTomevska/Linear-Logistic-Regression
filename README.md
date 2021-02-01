@@ -7,8 +7,7 @@ This project contains two parts:
 
 # Part 1: Linear Regression 
 # Dataset
-In this project, I am using “Boston house prices dataset” from Scikit Learn. The Boston house-price data has been used in many machine learning papers that address regression problems. Learn more at
-https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html
+In this project, I am using “Boston house prices dataset” from Scikit Learn. The Boston house-price data has been used in many machine learning papers that address regression problems. Learn more at https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html
 
 Boston house prices dataset has 506 instances and for each instance, it has 13 attributes and one target value.
 - CRIM per capita crime rate by town
