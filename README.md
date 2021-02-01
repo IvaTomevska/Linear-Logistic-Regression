@@ -2,8 +2,8 @@
 Implementing Linear and Logistic Regression from scratch
 
 This project contains two parts:
-Part A: Linear Regression
-Part B: Logistic Regression
+- Part 1: Linear Regression
+- Part 2: Logistic Regression
 
 # Part 1: Linear Regression 
 # Dataset
